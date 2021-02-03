@@ -1,0 +1,7 @@
+E:\github项目\泛型研究\GenericStudy\bin\Debug\GenericStudy.exe.config
+E:\github项目\泛型研究\GenericStudy\bin\Debug\GenericStudy.exe
+E:\github项目\泛型研究\GenericStudy\bin\Debug\GenericStudy.pdb
+E:\github项目\泛型研究\GenericStudy\obj\Debug\GenericStudy.csprojAssemblyReference.cache
+E:\github项目\泛型研究\GenericStudy\obj\Debug\GenericStudy.csproj.CoreCompileInputs.cache
+E:\github项目\泛型研究\GenericStudy\obj\Debug\GenericStudy.exe
+E:\github项目\泛型研究\GenericStudy\obj\Debug\GenericStudy.pdb
